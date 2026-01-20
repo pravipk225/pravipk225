@@ -54,5 +54,5 @@ Prompt Engineering · GitHub Copilot · GenAI · Computer Vision · ML Models
 
 - 💡 Ask me about: Cloud-native test architecture, contract testing, QE leadership
 - 📧 Email: **rpkpraveen22@gmail.com**
-- 💼 LinkedIn: *[[(https://www.linkedin.com/in/praveen-ravichandran-aa3b23a1/)]*  
+- 💼 LinkedIn: **https://www.linkedin.com/in/praveen-ravichandran-aa3b23a1**  
 - 😄 Pronouns: He/Him
