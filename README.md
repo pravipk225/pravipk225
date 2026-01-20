@@ -1,58 +1,80 @@
-# Praveen Kumar Ravichandran  
-### Cloud-Native QA Architect
+# Praveen Kumar Ravichandran
 
-👋 Welcome to my GitHub!
+### Cloud-Native QA Architect | AI-Driven Quality Engineering
 
-I’m **Praveen**, a Cloud-Native QA Architect with **9+ years of experience** across **FinTech and Healthcare**.  
-I specialize in **architecting quality into distributed systems**, ensuring reliability, scalability, and speed in complex microservices environments.
+👋 Welcome to my GitHub profile!
 
-> My philosophy: **Quality is an engineering discipline, not a phase.**
+I’m **Praveen**, a Lead SDET with **9+ years of experience** designing and scaling **automation-first quality engineering solutions** across **FinTech, Healthcare, and Banking** domains.
+
+I specialize in building **robust, cloud-native automation frameworks** that integrate seamlessly into CI/CD pipelines and support **modern microservices architectures**.
 
 ---
 
-## 🚀 What I Do
-
-I help organizations move faster **without sacrificing reliability** by designing cloud-native, automation-first quality strategies.
+## 🚀 Professional Focus
 
 ### 🔹 Automation Architecture
-- Architect scalable **Playwright + TypeScript** frameworks adopted across multiple teams
-- Reduce brittle end-to-end tests using **Consumer-Driven Contract Testing (Pact)**
-- Build UI, API, and service-level automation that scales with microservices
+
+* Architected **scalable Playwright frameworks** (TypeScript & .NET) adopted across multiple teams
+* Led **UI & API automation POCs** for enterprise banking applications
+* Designed reusable automation libraries supporting smoke, regression, and sanity suites
+* Reduced execution time by **~50%** and improved regression efficiency
 
 ### 🔹 Cloud-Native & DevOps Quality
-- Design automation that runs **cloud-aware and cost-efficient** in CI/CD
-- Integrate testing into **Azure DevOps, GitHub Actions, Jenkins**
-- Drive **Shift-Left** adoption by embedding quality into developer workflows
 
-### 🔹 AI-Driven Quality Engineering
-- Apply **AI-assisted testing**, Prompt Engineering, and GenAI tools
-- Accelerate test creation and improve maintainability
-- Explore observability-driven testing using metrics and logs
+* Integrated automation into **Azure DevOps, Jenkins, and GitHub Actions**
+* Designed CI/CD-ready test frameworks optimized for **cost and scalability**
+* Hands-on with **Docker and Kubernetes** in cloud-native test environments
+* Certified in **GCP and Azure**, with working knowledge of AWS
+
+### 🔹 API, Performance & Reliability
+
+* Built backend automation using **REST Assured, RestSharp, xUnit**
+* Implemented performance testing using **K6**
+* Improved test stability and reporting using **ExtentReports**
+* Experience validating large-scale platforms with **Grafana & observability tools**
+
+### 🔹 AI-Assisted Quality Engineering
+
+* Leveraging **GitHub Copilot and GenAI tools** to accelerate test development
+* Applying **Prompt Engineering** to improve automation productivity
+* Exploring AI-driven approaches for maintainability and test optimization
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Cloud & DevOps**  
-GCP · Azure · Docker · Kubernetes · GitHub Actions · Azure DevOps · Jenkins
+**Automation & Testing**
+Playwright (.NET, TypeScript) · Selenium (Java, .NET) · REST Assured · K6 · TestNG · NUnit · xUnit
 
-**Automation & Testing**  
-Playwright (TS/Python) · Pact · Rest Assured · Pytest · Appium · K6
+**Languages**
+TypeScript · C# · Java · Python · Groovy
 
-**Languages**  
-TypeScript · Python · Java · C# · Groovy
+**CI/CD & DevOps**
+Azure DevOps · Jenkins · Git · Docker · Kubernetes · GitHub Actions
 
-**Observability & Data**  
-Datadog · Grafana · SQL · NoSQL
+**Cloud Platforms**
+Azure · Google Cloud Platform (GCP) · AWS
 
-**AI & Emerging Tech**  
-Prompt Engineering · GitHub Copilot · GenAI · Computer Vision · ML Models
+**Observability & Data**
+Grafana · Datadog · SQL · NoSQL
+
+**AI & Emerging Tech**
+Prompt Engineering · GitHub Copilot · GenAI Tools · Computer Vision · ML Models
 
 ---
 
-## 💬 Let’s Connect
+## 💼 Domains
 
-- 💡 Ask me about: Cloud-native test architecture, contract testing, QE leadership
-- 📧 Email: **rpkpraveen22@gmail.com**
-- 💼 LinkedIn: **https://www.linkedin.com/in/praveen-ravichandran-aa3b23a1**  
-- 😄 Pronouns: He/Him
+* Banking & FinTech
+* Healthcare Platforms
+* Telecom & Network Services
+* Travel & Hospitality
+
+---
+
+## 💬 Connect with Me
+
+* 💡 Ask me about: Test automation architecture, Playwright frameworks, CI/CD quality
+* 📧 Email: **[rpkpraveen22@gmail.com](mailto:rpkpraveen22@gmail.com)**
+* 💼 LinkedIn: *(https://www.linkedin.com/in/praveen-ravichandran-aa3b23a1/)*
+* 😄 Pronouns: He/Him
