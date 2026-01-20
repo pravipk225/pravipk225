@@ -1,5 +1,5 @@
 # Praveen Kumar Ravichandran  
-### Cloud-Native QA Architect | Quality Engineering Leader
+### Cloud-Native QA Architect
 
 👋 Welcome to my GitHub!
 
@@ -37,13 +37,13 @@ I help organizations move faster **without sacrificing reliability** by designin
 GCP · Azure · Docker · Kubernetes · GitHub Actions · Azure DevOps · Jenkins
 
 **Automation & Testing**  
-Playwright (TS/Python) · Pact · Rest Assured · Pytest · Appium · Maestro · K6
+Playwright (TS/Python) · Pact · Rest Assured · Pytest · Appium · K6
 
 **Languages**  
 TypeScript · Python · Java · C# · Groovy
 
 **Observability & Data**  
-Datadog · Grafana · Kibana · Elasticsearch · SQL · NoSQL (MongoDB, Redis)
+Datadog · Grafana · SQL · NoSQL
 
 **AI & Emerging Tech**  
 Prompt Engineering · GitHub Copilot · GenAI · Computer Vision · ML Models
